@@ -3,7 +3,7 @@
 ### This project is a Flutter-based mobile application that helps users determine their Body Mass Index based on their weight and height, providing insights into their health status. 
 
 ## BMI Claculator in action
-![BMI Calculator in Action](assets/bmi-calc-demo.gif)
+![BMI Calculator in Action](assets/bmi-calc-demo-min.gif)
 
 ## Table of Contents
 - [Features](#features)
